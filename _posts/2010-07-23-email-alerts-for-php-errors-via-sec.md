@@ -5,7 +5,6 @@ date: 2010-07-23 14:19:52+00:00
 layout: post
 slug: email-alerts-for-php-errors-via-sec
 title: Email alerts for PHP errors via SEC
-wordpress_id: 537367102
 categories:
 - Tech
 tags:
@@ -20,41 +19,32 @@ Production systems should always have PHP's [display_errors](http://www.php.net/
 
 Here are some helpful guides for getting started:
 
-
-
-	
-  * [Working with SEC- the Simple Event Correlator](http://sixshooter.v6.thrupoint.net/SEC-examples/article.html)
-
-	
-  * [](http://arstechnica.com/open-source/news/2005/05/linux-20050519.ars)[Monitoring with Simple Event Correlator](http://arstechnica.com/open-source/news/2005/05/linux-20050519.ars)
-
-  
-  * [sec man page](http://www.estpak.ee/~risto/sec/sec.pl.html)
-
+ * [Working with SEC- the Simple Event Correlator](http://sixshooter.v6.thrupoint.net/SEC-examples/article.html)
+ * [](http://arstechnica.com/open-source/news/2005/05/linux-20050519.ars)[Monitoring with Simple Event Correlator](http://arstechnica.com/open-source/news/2005/05/linux-20050519.ars)
+ * [sec man page](http://www.estpak.ee/~risto/sec/sec.pl.html)
 
 At [HipChat](http://www.hipchat.com) we use a config like the following to to monitor Apache's error_log for PHP errors and send us emails:
 
-    
-    # Capture error lines and store them in apache-php-errors
-    type=Single
-    ptype=RegExp
-    pattern=^\[.+\] \[error\] \[client .+\] PHP .+$
-    desc=PHP error or warning
-    action=add apache-php-errors $0
-    
-    # Report errors every minute if apache-php-errors is set
-    type=Calendar
-    time=* * * * *
-    desc=Mail web errors
-    context=apache-php-errors
-    action=report apache-php-errors /usr/bin/mail -s "PHP errors" alerts@company.com; delete apache-php-errors;
+{% highlight text %}
+# Capture error lines and store them in apache-php-errors
+type=Single
+ptype=RegExp
+pattern=^\[.+\] \[error\] \[client .+\] PHP .+$
+desc=PHP error or warning
+action=add apache-php-errors $0
 
+# Report errors every minute if apache-php-errors is set
+type=Calendar
+time=* * * * *
+desc=Mail web errors
+context=apache-php-errors
+action=report apache-php-errors /usr/bin/mail -s "PHP errors" alerts@company.com; delete apache-php-errors;
+{% endhighlight %}
 
-Assuming you put this config in /etc/sec/apache.conf you'd run:
+Assuming you put this config in `/etc/sec/apache.conf` you'd run:
 
-    
-    $ sec --conf=/etc/sec/apache.conf --input /var/log/apache2/error_log
-
-
+{% highlight bash %}
+$ sec --conf=/etc/sec/apache.conf --input /var/log/apache2/error_log
+{% endhighlight %}
 
 Try writing a few of your own rules (the --debug flag is very helpful) or the examples in the tutorials above. SEC is incredibly powerful and can make complex monitoring tasks very simple.

@@ -5,7 +5,6 @@ date: 2010-07-31 18:14:23+00:00
 layout: post
 slug: perform-a-command-serially-in-capistrano
 title: Perform a command serially in Capistrano
-wordpress_id: 537367104
 categories:
 - Tech
 tags:
@@ -19,17 +18,18 @@ tags:
 
 Here's the solution I came up with:
 
-    
-    desc "Do a rolling restart of <service>"
-    deploy.task :restart do
-      hosts = self.roles[:server].to_ary # change :server to your role
-      num_hosts = hosts.size
-      hosts.each_with_index do |host, i|
-        puts "Restarting <service> on #{host} (#{i+1} of #{num_hosts})"
-        sudo "/etc/init.d/<sevice> restart", :hosts => host
-        if i < num_hosts-1
-          puts "Waiting 3s before next host."
-          sleep(3)
-        end
-      end
+{% highlight ruby %}
+desc "Do a rolling restart of <service>"
+deploy.task :restart do
+  hosts = self.roles[:server].to_ary # change :server to your role
+  num_hosts = hosts.size
+  hosts.each_with_index do |host, i|
+    puts "Restarting <service> on #{host} (#{i+1} of #{num_hosts})"
+    sudo "/etc/init.d/<sevice> restart", :hosts => host
+    if i < num_hosts-1
+      puts "Waiting 3s before next host."
+      sleep(3)
     end
+  end
+end
+{% endhighlight %}

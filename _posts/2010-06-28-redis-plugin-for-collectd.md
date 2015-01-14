@@ -5,7 +5,6 @@ date: 2010-06-28 02:33:57+00:00
 layout: post
 slug: redis-plugin-for-collectd
 title: Redis plugin for collectd
-wordpress_id: 537366920
 categories:
 - Tech
 tags:
