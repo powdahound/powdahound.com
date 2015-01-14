@@ -1,12 +1,18 @@
 @media (min-width: 48em) {
   .sidebar {
-    width: 15rem;
+    width: 16rem;
   }
 }
 
 .sidebar-about h1 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 1.75rem;
+}
+
+.sidebar-about h1 span {
+  display: inline-block;
+  position: relative;
+  top: 0.2rem;
 }
 
 .lead {
@@ -36,4 +42,18 @@ figure img {
 figcaption {
   font-size: 0.7rem;
   text-align: center;
+}
+
+/* Snowflake list items in posts */
+.post ul {
+  list-style: none;
+  padding-left: 1.8rem;
+  text-indent: -1.2rem;
+}
+
+.post li:before {
+  content: "\2744";
+  display: block;
+  float: left;
+  width: 1.2rem;
 }
