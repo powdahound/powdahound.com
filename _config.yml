@@ -12,6 +12,7 @@ tagline:          Dreaming of snow.
 description:      Nerd on skis.
 url:              http://powdahound.com
 baseurl:          /
+image_url:        /assets/
 
 author:
   name:           'Garret Heaton'

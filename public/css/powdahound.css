@@ -25,3 +25,15 @@
 .theme-powdahound .related-posts li a:hover {
   color: #336699;
 }
+
+/* Captioned images */
+figure {
+  margin: 1.5rem;
+}
+figure img {
+  margin-bottom: 0.2em;
+}
+figcaption {
+  font-size: 0.7rem;
+  text-align: center;
+}
