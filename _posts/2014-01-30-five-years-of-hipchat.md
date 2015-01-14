@@ -8,7 +8,7 @@ title: Five years of HipChat
 categories:
 - Tech
 image:
-- url: /office1.jpg
+- url: office1.jpg
   caption: Our tiny office in 2010 (Sunnyvale, CA)
 ---
 
