@@ -16,3 +16,12 @@
 .copyright {
   font-size: 0.5rem;
 }
+
+/* Color theme */
+.theme-powdahound .sidebar {
+  background-color: #336699;
+}
+.theme-powdahound .content a,
+.theme-powdahound .related-posts li a:hover {
+  color: #336699;
+}
