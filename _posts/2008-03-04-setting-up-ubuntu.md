@@ -5,7 +5,6 @@ date: 2008-03-04 06:56:51+00:00
 layout: post
 slug: setting-up-ubuntu
 title: Setting up Ubuntu
-wordpress_id: 42
 categories:
 - Tech
 tags:
@@ -29,17 +28,8 @@ I hadn't realized this before, but I hit backspace all the time in Firefox to na
 
 Some other thoughts about the switch...
 
-
-
-  
-  * [IEs 4 Linux](http://www.tatanka.com.br/ies4linux/) - testing stuff in IE6 is now really easy! I'm not able to test IE7 without booting a VM, but luckily it behaves well most of the time.
-
-  
-  * [Thunderbird](http://www.mozilla.com/en-US/thunderbird/) works much better with IMAP than I expected it to.
-
-  
-  * I was hoping [gedit](http://www.gnome.org/projects/gedit/) would be more like [Textmate](http://macromates.com/) than it is. [This tutorial](http://grigio.org/textmate_gedit_few_steps) helps a lot, but I can't find a way to get the keybinds to be the same. At the very least, I'd like emacs-style keybinds in gedit.
-
-
+ * [IEs 4 Linux](http://www.tatanka.com.br/ies4linux/) - testing stuff in IE6 is now really easy! I'm not able to test IE7 without booting a VM, but luckily it behaves well most of the time.
+ * [Thunderbird](http://www.mozilla.com/en-US/thunderbird/) works much better with IMAP than I expected it to.
+ * I was hoping [gedit](http://www.gnome.org/projects/gedit/) would be more like [Textmate](http://macromates.com/) than it is. [This tutorial](http://grigio.org/textmate_gedit_few_steps) helps a lot, but I can't find a way to get the keybinds to be the same. At the very least, I'd like emacs-style keybinds in gedit.
 
 I've also been using Ubuntu as the OS on my new VPS from [VPSLink.com](http://vpslink.com/) which is hosting this site. More on them in the future...

@@ -5,7 +5,6 @@ date: 2008-03-25 04:37:03+00:00
 layout: post
 slug: im-now-hosted-by-vpslink
 title: I’m now hosted by VPSLink
-wordpress_id: 43
 categories:
 - Tech
 tags:

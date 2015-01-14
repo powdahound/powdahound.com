@@ -5,7 +5,6 @@ date: 2008-12-02 03:03:03+00:00
 layout: post
 slug: incredible-recruiting
 title: Incredible Recruiting
-wordpress_id: 88
 categories:
 - Tech
 tags:
@@ -14,6 +13,6 @@ tags:
 
 Red 5 Studios, a powerhouse gaming studio in stealth mode tried some highly targeted recruiting that really paid off. Check out the video below.
 
-
+<iframe src="http://www.msnbc.msn.com/id/22425001/vp/24836769#24836769" width="425" height="339" frameborder="0" scrolling="no"></iframe>
 
 They showed some Tribes 1 footage in there too. It's by far my favorite game, so they have me very curious...

@@ -5,7 +5,6 @@ date: 2008-06-08 16:30:50+00:00
 layout: post
 slug: new-jungledisk-beta-is-worth-the-upgrade
 title: New JungleDisk beta is worth the upgrade
-wordpress_id: 72
 categories:
 - Tech
 tags:

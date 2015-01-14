@@ -5,7 +5,6 @@ date: 2008-05-05 00:38:29+00:00
 layout: post
 slug: what-makes-a-great-developer
 title: What Makes a Great Developer?
-wordpress_id: 54
 categories:
 - Tech
 tags:

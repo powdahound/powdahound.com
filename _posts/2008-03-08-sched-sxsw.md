@@ -5,7 +5,6 @@ date: 2008-03-08 18:23:30+00:00
 layout: post
 slug: sched-sxsw
 title: SCHED SXSW
-wordpress_id: 45
 categories:
 - Tech
 tags:

@@ -5,7 +5,6 @@ date: 2008-06-26 01:39:43+00:00
 layout: post
 slug: legions-open-beta-begins
 title: Legions open beta begins!
-wordpress_id: 74
 categories:
 - Tech
 tags:
@@ -20,3 +19,4 @@ Legions is a "spiritual successor" to the [Tribes series](http://en.wikipedia.or
 
 Here's the most recent trailer (More videos on [Legions Players](http://www.legionsplayers.com/videos/)):
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/eVsemgxoHxA" frameborder="0" allowfullscreen></iframe>
