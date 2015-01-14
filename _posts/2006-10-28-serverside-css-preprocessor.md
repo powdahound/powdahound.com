@@ -5,12 +5,8 @@ date: 2006-10-28 20:26:44+00:00
 layout: post
 slug: serverside-css-preprocessor
 title: Serverside CSS Preprocessor
-wordpress_id: 3
 categories:
 - Tech
-tags:
-- css
-- idea
 ---
 
 Had an idea to make a CSS preprocessor that would help solve many of the issues I have with CSS currently. Ideally it would:

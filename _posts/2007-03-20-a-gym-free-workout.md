@@ -5,7 +5,6 @@ date: 2007-03-20 06:09:44+00:00
 layout: post
 slug: a-gym-free-workout
 title: A gym-free workout
-wordpress_id: 11
 categories:
 - Personal
 tags:
@@ -17,17 +16,9 @@ tags:
 
 The simplefit workout has a few benefits as I see it:
 
-
-
-	
   * It's simple - just 3 different exercises 3 times a week; and I don't have to go anywhere to do it!
-
-	
   * It's not always the same - although each of the 3 workouts use the same exercises they're presented in such a way that each day will (hopefully) feel like a different challenge
-
-	
   * It's rewarding - the way its set up into different levels gives you something to focus on besides just getting more fit and helps you realize the progress you've made so far
-
 
 I'm sure other workouts have similar structure and simplicity but I didn't really care to do any research. :) So today I did a 'Day 1' workout and completed 56 sets in the 20 minutes. The pull-ups are definitely my bottleneck at this point.
 Hopefully in a few weeks it'll get a little warmer out and I can bike to work every day (it's just under 7 miles). It will be really nice to bike home after a long day instead of sitting in traffic. Exercise is such great stress relief, and it'd be stupid of me not to take advantage of the great CA weather.

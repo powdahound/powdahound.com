@@ -5,7 +5,6 @@ date: 2007-07-15 17:57:30+00:00
 layout: post
 slug: hipcal-history
 title: HipCal History
-wordpress_id: 27
 categories:
 - Tech
 tags:
