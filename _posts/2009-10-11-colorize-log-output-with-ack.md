@@ -5,7 +5,6 @@ date: 2009-10-11 07:52:19+00:00
 layout: post
 slug: colorize-log-output-with-ack
 title: Colorize log output with ack
-wordpress_id: 209624101
 categories:
 - Tech
 tags:
@@ -18,21 +17,21 @@ Adding color to log files makes them a lot easier to understand, especially when
 
 For example, to make 404s red in a standard Apache access log:
 
-    
-    $ tail -f /var/log/apache2/access.log \
-      | ack --passthru --color-match=red "^.* 404 .*$"
-
+{% highlight bash %}
+$ tail -f /var/log/apache2/access.log \
+  | ack --passthru --color-match=red "^.* 404 .*$"
+{% endhighlight %}
 
 The `--passthru` option makes it so no lines are discarded. You can use multiple colors by piping the output through `ack` multiple times. The `--flush` option is needed to prevent pipe buffering issues and the `--color` option is needed to pass colors through. Here’s an example:
 
-    
-    $ tail -f /var/log/apache2/access.log \
-      | ack --flush --passthru --color --color-match=green "^.* 200 .*" \
-      | ack --flush --passthru --color --color-match=yellow "^.* 302 .*" \
-      | ack --flush --passthru --color --color-match=red "^.* 404 .*"
+{% highlight bash %}
+$ tail -f /var/log/apache2/access.log \
+  | ack --flush --passthru --color --color-match=green "^.* 200 .*" \
+  | ack --flush --passthru --color --color-match=yellow "^.* 302 .*" \
+  | ack --flush --passthru --color --color-match=red "^.* 404 .*"
+{% endhighlight %}
 
-
-![Apache access log colored with ack](http://farm3.static.flickr.com/2433/3998807621_95498f0ba2_o.png)
+![Apache access log colored with ack](/assets/colored_logs.png)
 
 You can use more complex colors like `--color="white on_red"` to make errors stand out even more.
 
