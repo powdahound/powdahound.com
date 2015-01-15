@@ -57,3 +57,9 @@ figcaption {
   float: left;
   width: 1.2rem;
 }
+
+/* Post content stuff */
+.post img.right {
+  float: right;
+  margin: 0 0 1rem 1rem;
+}

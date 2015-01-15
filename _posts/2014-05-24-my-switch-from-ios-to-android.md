@@ -9,7 +9,7 @@ categories:
 - Tech
 ---
 
-<img src="/assets/Android-versus-iOS-200x112.jpg" align="right" />
+<img src="/assets/Android-versus-iOS-200x112.jpg" class="right" />
 
 In early April I ordered a [Nexus 5](http://www.google.com/nexus/5/) to replace my two year old iPhone 4s. It's the first Android device I've ever owned so I've had to learn a lot of new behaviors. While doing so, I've kept a list (in [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)) of anything that I've found to be noticeably better or worse than iOS. Lots of my iOS-only friends have been surprised to hear about many of the differences so I'm including it here with comments added. It should also be fun to read in a few years when all of this is horribly outdated.
 
