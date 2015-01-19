@@ -1,19 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2010-06-28 02:33:57+00:00
-layout: post
 slug: redis-plugin-for-collectd
 title: Redis plugin for collectd
 categories:
 - Tech
-tags:
-- collectd
-- drraw
-- monitoring
-- open source
-- redis
-- rrdtool
 ---
 
 Last weekend I wrote a small [collectd](http://collectd.org/) plugin for monitoring [Redis](http://code.google.com/p/redis/) and put it on GitHub: [http://github.com/powdahound/redis-collectd-plugin](http://github.com/powdahound/redis-collectd-plugin).

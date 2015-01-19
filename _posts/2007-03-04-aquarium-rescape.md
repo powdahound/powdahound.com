@@ -1,9 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2007-03-04 17:45:40+00:00
-layout: post
-slug: aquarium-rescape
 title: Aquarium rescape
 categories:
 - Personal

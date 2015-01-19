@@ -1,14 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-12-02 03:03:03+00:00
-layout: post
 slug: incredible-recruiting
 title: Incredible Recruiting
 categories:
 - Tech
-tags:
-- hiring
 ---
 
 Red 5 Studios, a powerhouse gaming studio in stealth mode tried some highly targeted recruiting that really paid off. Check out the video below.

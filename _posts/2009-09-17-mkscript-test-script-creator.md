@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2009-09-17 05:50:00+00:00
-layout: post
 slug: mkscript-test-script-creator
 title: mkscript - test script creator
 categories:
 - Tech
-tags:
-- scripts
-- tool
 ---
 
 I usually do something wrong when I create test scripts (typo in shebang, not executable, missing open PHP tag, etc) so I wrote a small tool called mkscript that can create them for me.

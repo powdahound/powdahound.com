@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-05-05 05:25:33+00:00
-layout: post
 slug: crysis-intro-videos-just-let-me-play
 title: Crysis intro videos; just let me play!
 categories:
 - Tech
-tags:
-- crysis
-- gaming
 image:
 - url: crysis-cover.jpg
   caption: But can it run Crysis?

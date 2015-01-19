@@ -1,16 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2009-02-19 04:05:17+00:00
-layout: post
 slug: continentals-purchase-confirmation-email
-title: Continental’s purchase confirmation email
+title: Continental's purchase confirmation email
 categories:
 - Tech
-tags:
-- continental
-- email
-- travel
 ---
 
 In late December I bought a ticket to London through [Continental](http://www.continental.com) to go visit Brinker (my girlfriend) while she's there for [her internship](http://www.tate.org.uk). After going through a seemingly normal purchase flow I received the email below and crossed out the "Buy plane ticket" task off my to-do list.

@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-03-26 05:40:40+00:00
-layout: post
 slug: a-partial-hardware-upgrade
 title: A partial hardware upgrade
 categories:
 - Tech
-tags:
-- hardware
-- newegg
 image:
 - url: msi_nx8800gt_1.jpg
   caption: 8800 series card released in late 2006

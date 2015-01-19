@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2007-07-09 06:06:00+00:00
-layout: post
 slug: finally-a-worthy-mouse
 title: Finally, a worthy mouse!
 categories:
 - Tech
-tags:
-- microsoft
-- mouse
 image:
 - url: microsoft-mouse.jpg
   caption: Microsoft Habu mouse

@@ -1,9 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2007-02-20 02:01:59+00:00
-layout: post
-slug: i-suck-at-blogging
 title: I suck at blogging
 categories:
 - Personal

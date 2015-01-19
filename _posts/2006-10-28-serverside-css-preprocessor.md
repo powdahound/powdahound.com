@@ -1,9 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2006-10-28 20:26:44+00:00
-layout: post
-slug: serverside-css-preprocessor
 title: Serverside CSS Preprocessor
 categories:
 - Tech

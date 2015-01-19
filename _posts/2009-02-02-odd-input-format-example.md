@@ -1,14 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2009-02-02 06:28:25+00:00
-layout: post
 slug: odd-input-format-example
 title: Odd input format example
 categories:
 - Tech
-tags:
-- usability
 ---
 
 ![Corsair Rebate Form Example](/assets/corsair-rebate-form.png)

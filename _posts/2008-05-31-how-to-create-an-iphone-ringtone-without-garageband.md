@@ -1,17 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-05-31 22:12:19+00:00
-layout: post
 slug: how-to-create-an-iphone-ringtone-without-garageband
 title: How to create an iPhone ringtone without GarageBand
 categories:
 - Tech
-tags:
-- garageband
-- iphone
-- itunes
-- mac
 ---
 
 There are [lots](http://support.apple.com/kb/HT1358) [of](http://www.ilounge.com/index.php/articles/comments/ten-step-guide-to-iphone-custom-ringtones-in-garageband-08/) [articles](http://lifehacker.com/software/how-to/create-custom-iphone-ringtones-the-free-and-apple-way-334073.php) out there explaining how to make an iPhone ringtone from a song using GarageBand but it's also possible to create them using only iTunes. Here's how:

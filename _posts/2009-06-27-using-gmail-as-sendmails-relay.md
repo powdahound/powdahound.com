@@ -1,29 +1,22 @@
 ---
-author: garret
-comments: true
-date: 2009-06-27 05:02:34+00:00
-layout: post
 slug: using-gmail-as-sendmails-relay
-title: Using Gmail as Sendmail’s relay
+title: Using Gmail as Sendmail's relay
 categories:
 - Tech
-tags:
-- gmail
-- sendmail
 ---
 
-Comcast just started [blocking port 25](http://news.zdnet.com/2100-3513_22-136518.html) at my house which caused sendmail to be unable to connect to external mail servers to deliver mail. Some people have been able to convince Comcast to open up the port for them but we weren’t so lucky. Instead, I changed sendmail to use Gmail’s SMTP server as its relay server.
+Comcast just started [blocking port 25](http://news.zdnet.com/2100-3513_22-136518.html) at my house which caused sendmail to be unable to connect to external mail servers to deliver mail. Some people have been able to convince Comcast to open up the port for them but we weren't so lucky. Instead, I changed sendmail to use Gmail's SMTP server as its relay server.
 
-Before making these changes I’d see lots of errors in `/var/log/mail.log` ending in `stat=Deferred: Connection timed out with aspmx2.googlemail.com.` or something similar. Trying to `telnet aspmx2.googlemail.com 25` would result in a timeout.
+Before making these changes I'd see lots of errors in `/var/log/mail.log` ending in `stat=Deferred: Connection timed out with aspmx2.googlemail.com.` or something similar. Trying to `telnet aspmx2.googlemail.com 25` would result in a timeout.
 
-I found all the information on how to do this in these two articles; [Yan Li’s Words: Gmail, Fetchmail and Sendmail on UNIX/Linux](http://elliotli.blogspot.com/2007/08/gmail-fetchmail-and-sendmail-on.html) and [Linux, Sendmail and Gmail.com](http://www.linuxha.com/other/sendmail/gmail.html).
+I found all the information on how to do this in these two articles; [Yan Li's Words: Gmail, Fetchmail and Sendmail on UNIX/Linux](http://elliotli.blogspot.com/2007/08/gmail-fetchmail-and-sendmail-on.html) and [Linux, Sendmail and Gmail.com](http://www.linuxha.com/other/sendmail/gmail.html).
 
 All of this was done on a server running Ubuntu 8.04.2 and sendmail 8.14.2.
 
 
 ### Step 1
 
-Edit your ``/etc/mail/sendmail.mc` and add the following above the `MAILER_DEFINITIONS` block at the bottom. I tried putting these lines at the very bottom of the file the first time and it didn’t work. I suggest copy/pasting because the quotes are very strange.
+Edit your ``/etc/mail/sendmail.mc` and add the following above the `MAILER_DEFINITIONS` block at the bottom. I tried putting these lines at the very bottom of the file the first time and it didn't work. I suggest copy/pasting because the quotes are very strange.
 
     define(`SMART_HOST',`smtp.gmail.com')dnl
     define(`RELAY_MAILER_ARGS', `TCP $h 587')dnl
@@ -75,4 +68,4 @@ Reload the sendmail configuration.
 
     /etc/init.d/sendmail reload
 
-Now if you check your /var/log/mail.log you should see any queued messages being sent properly. You should see `relay=smtp.gmail.com` and `stat=Sent`. If not, make sure you didn’t miss a step above.
+Now if you check your /var/log/mail.log you should see any queued messages being sent properly. You should see `relay=smtp.gmail.com` and `stat=Sent`. If not, make sure you didn't miss a step above.

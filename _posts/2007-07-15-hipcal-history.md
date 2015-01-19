@@ -1,16 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2007-07-15 17:57:30+00:00
-layout: post
 slug: hipcal-history
 title: HipCal History
 categories:
 - Tech
-tags:
-- hipcal
-- plaxo
-- rpi
 ---
 
 While giving an interview recently I realized that some of the important dates in HipCal history were getting a little fuzzy. Here's an official time line;

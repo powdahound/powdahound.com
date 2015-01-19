@@ -1,9 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2004-04-03 09:03:44+00:00
-layout: post
-slug: another-new-design
 title: Another New Design
 categories:
 - Tech

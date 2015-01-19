@@ -1,15 +1,7 @@
 ---
-author: garret
-comments: true
-date: 2007-03-20 06:23:04+00:00
-layout: post
-slug: why-arent-video-game-matches-on-tv-yet
-title: Why aren’t video game matches on TV yet?
+title: Why aren't video game matches on TV yet?
 categories:
 - Tech
-tags:
-- gaming
-- tv
 ---
 
 > One of the top 5v5 teams has become one of the first groups of WoW players to become professional gamers-- Curse reports that CheckSix Gaming, an e-sports agency (or should that be promoter? sponsor?), has picked up ZERG IT DOWN as the first professional 5v5 arena team (one of the first actually, see Update below). CheckSix also sponsors Counterstrike, Call of Duty, and BF1942 teams, and while they say they were skeptical Blizzard would be able to make WoW a part of "eSports," the arena system is what put it over the top-- it provides a quantifiable way to determine which team has the better players.

@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-03-04 06:56:51+00:00
-layout: post
 slug: setting-up-ubuntu
 title: Setting up Ubuntu
 categories:
 - Tech
-tags:
-- linux
-- ubuntu
 ---
 
 I installed Ubuntu on my desktop again since I felt like desktop Linux was getting much closer to a state where I'd be willing to make the switch. My experience has been so much better than previous Gentoo and Ubuntu installs (even my wireless worked out of the box!) but there were still a few critical things I had to fix myself.

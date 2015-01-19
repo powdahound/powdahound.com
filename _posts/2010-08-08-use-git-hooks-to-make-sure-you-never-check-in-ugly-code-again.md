@@ -1,17 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2010-08-08 00:00:28+00:00
-layout: post
 slug: use-git-hooks-to-make-sure-you-never-check-in-ugly-code-again
 title: Use git-hooks to make sure you never check in ugly code again
-wordpress_id: 537367096
 categories:
 - Tech
-tags:
-- code
-- git
-- open source
 ---
 
 The [git-hooks](http://github.com/icefox/git-hooks) project provides a way to run git hooks locally before you check in your code. This is especially useful if your code is hosted on [GitHub](http://github.com) because you don't have access to install server side hooks.

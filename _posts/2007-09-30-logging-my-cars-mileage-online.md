@@ -1,16 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2007-09-30 18:45:57+00:00
-layout: post
 slug: logging-my-cars-mileage-online
-title: Logging my car’s mileage online
+title: Logging my car's mileage online
 categories:
 - Tech
-tags:
-- car
-- mpg
-- volvo
 image:
 - url: mymilemarker.jpg
   caption: MyMileMarker gives you nice graphs.

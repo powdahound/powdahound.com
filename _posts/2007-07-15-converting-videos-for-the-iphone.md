@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2007-07-15 18:10:01+00:00
-layout: post
 slug: converting-videos-for-the-iphone
 title: Converting videos for the iPhone
 categories:
 - Tech
-tags:
-- iphone
-- video
 ---
 
 I've been very happy with my iPhone (writeup to come later) but had some trouble figuring out how to convert movies to its native format in an easy way. Here's what I've found out;

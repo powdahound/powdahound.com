@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2009-07-10 23:16:35+00:00
-layout: post
 slug: macs-digitalcolor-meter-app
-title: "Mac's DigitalColor Meter.app"
+title: Mac's DigitalColor Meter.app
 categories:
 - Tech
-tags:
-- color
-- mac
 ---
 
 Link: [Mac's DigitalColor Meter.app](http://www.macosxtips.co.uk/index_files/digital-color-meter-tips.html)

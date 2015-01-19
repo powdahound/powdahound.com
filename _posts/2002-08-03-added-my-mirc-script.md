@@ -1,7 +1,4 @@
 ---
-author: garret
-comments: true
-layout: post
 title: Added my mIRC script!
 categories:
 - Tech

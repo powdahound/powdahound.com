@@ -1,16 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2007-06-26 05:31:07+00:00
-layout: post
 slug: plaxo-30-wap-and-pulse
 title: Plaxo 3.0, WAP, and Pulse
 categories:
 - Tech
-tags:
-- mobile
-- plaxo
-- wap
 image:
 - url: plaxo_pulse.jpg
   caption: 'Plaxo 3.0'

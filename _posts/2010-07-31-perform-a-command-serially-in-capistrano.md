@@ -1,17 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2010-07-31 18:14:23+00:00
-layout: post
 slug: perform-a-command-serially-in-capistrano
 title: Perform a command serially in Capistrano
 categories:
 - Tech
-tags:
-- capistrano
-- deployment
-- linux
-- open source
 ---
 
 [Capistrano](http://www.capify.org) is a great tool for doing software deployments and other system maintenance tasks (although for anything larger, I'd recommend [Chef](http://wiki.opscode.com/display/chef/Home)).  One small Capistrano issue I ran into this week is that there's no way to run a command in serial across multiple machines (commands are always [run](http://www.capify.org/index.php/Run) in parallel). You might want to do this if you need to make sure that at least one service in a group is available at all times, or if the service restarting is going to put some load on another resource such as a database.

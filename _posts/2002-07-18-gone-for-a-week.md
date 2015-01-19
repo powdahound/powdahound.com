@@ -1,8 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2002-07-18 00:00:00-05:00
-layout: post
 title: Gone for a Week
 categories:
 - Personal

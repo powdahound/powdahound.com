@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2007-07-22 05:05:54+00:00
-layout: post
 slug: starsiege-tribes-a-truly-unique-fps
 title: 'Starsiege: Tribes, a truly unique FPS'
 categories:
 - Tech
-tags:
-- gaming
-- tribes
 image:
 - url: starsiege_tribes_box.jpg
   caption: 'Stariege: Tribes box art.'

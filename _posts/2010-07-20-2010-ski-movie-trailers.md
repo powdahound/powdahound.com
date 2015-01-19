@@ -1,14 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2010-07-20 04:15:24+00:00
-layout: post
 slug: 2010-ski-movie-trailers
 title: 2010 ski movie trailers
 categories:
 - Skiing
-tags:
-- skiing
 ---
 
 Trailers for the 2010 ski movies are starting to land! Here's what I've found so far:

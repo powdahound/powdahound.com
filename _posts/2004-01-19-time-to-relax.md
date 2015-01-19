@@ -1,9 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2004-01-19 00:16:00-05:00
-layout: post
-slug: time-to-relax
 title: Time to Relax
 categories:
 - Personal

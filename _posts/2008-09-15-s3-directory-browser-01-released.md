@@ -1,14 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-09-15 15:33:58+00:00
-layout: post
 slug: s3-directory-browser-01-released
 title: S3 Directory Browser 0.1 released
 categories:
 - Tech
-tags:
-- open source
 ---
 
 A few months ago I created [a small PHP tool](http://code.google.com/p/s3-directory-browser/) to generate file listings for Amazon S3 buckets. The concept is the same as Apache's [mod_autoindex](http://httpd.apache.org/docs/2.0/mod/mod_autoindex.html). Check out [my shared files](http://files.powdahound.com/) for an example. This weekend I finished the install instructions, config documentation, and stuck a 0.1 label on it. I guess that means it's [officially released](http://code.google.com/p/s3-directory-browser/)! Hopefully someone else finds it useful and provides some feedback.

@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-06-04 16:09:42+00:00
-layout: post
 slug: mac-terminal-tip-pbcopy-and-pbpaste
 title: 'Mac Terminal tip: pbcopy and pbpaste'
 categories:
 - Tech
-tags:
-- command line
-- mac
 ---
 
 Just found two helpful programs in OS X; pbcopy and pbpaste ([man page](http://developer.apple.com/documentation/Darwin/Reference/ManPages/man1/pbcopy.1.html)). They let you write and read from the OS X clipboard and allow you do to things like:

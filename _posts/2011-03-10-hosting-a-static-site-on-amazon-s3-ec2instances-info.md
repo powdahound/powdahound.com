@@ -1,16 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2011-03-10 05:22:54+00:00
-layout: post
 slug: hosting-a-static-site-on-amazon-s3-ec2instances-info
 title: 'Hosting a static site on Amazon S3: ec2instances.info'
 categories:
 - Tech
-tags:
-- amazon
-- ec2
-- s3
 ---
 
 ![](/assets/awslogo-500x250.png)Amazon added the ability to [host static sites on S3](http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html) recently so to try it out I made a small site comparing the different types of EC2 instances: [www.ec2instances.info](http://www.ec2instances.info). It's not much of a site but it was the only thing in my ideas list that didn't require some sort of database backend.

@@ -1,8 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2007-02-25 19:31:41+00:00
-layout: post
 slug: easily-upload-a-picasa-album-to-flickr
 title: Uploading a Picasa album to Flickr
 categories:

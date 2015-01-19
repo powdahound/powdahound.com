@@ -1,19 +1,7 @@
 ---
-author: garret
-comments: true
-date: 2007-05-14 05:42:08+00:00
-layout: post
-slug: in-the-past-few-weeks
-title: In the past few weeks…
+title: In the past few weeks...
 categories:
 - Tech
-tags:
-- amazon
-- camera
-- gaming
-- s3
-- trampoline
-- twitter
 ---
 
 ...a lot has happened!

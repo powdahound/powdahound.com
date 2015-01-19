@@ -1,19 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2010-07-18 16:39:11+00:00
-layout: post
 slug: dynamic-hosts-file-using-chef
 title: Dynamic hosts file using Chef
 categories:
 - Tech
-tags:
-- aws
-- chef
-- cloud
-- dns
-- ec2
-- network
 ---
 
 **Note:** This post is quite old. There are probably better methods for this now.

@@ -1,9 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2004-05-02 08:56:38+00:00
-layout: post
-slug: phound-com
 title: phound.com
 categories:
 - Tech

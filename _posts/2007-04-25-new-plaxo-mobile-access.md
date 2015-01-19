@@ -1,16 +1,7 @@
 ---
-author: garret
-comments: true
-date: 2007-04-25 04:05:49+00:00
-layout: post
-slug: new-plaxo-mobile-access
 title: New Plaxo Mobile Access
 categories:
-- Tech
-tags:
-- mobile
-- plaxo
-- wap
+- Tech Plaxo
 image:
 - url: plaxo-wap.png
   caption: 'Plaxo Mobile 3.0'

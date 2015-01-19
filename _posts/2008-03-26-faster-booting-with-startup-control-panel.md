@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-03-26 05:46:43+00:00
-layout: post
 slug: faster-booting-with-startup-control-panel
 title: Faster booting with Startup Control Panel
 categories:
 - Tech
-tags:
-- software
-- startupcpl
 image:
 - url: startupcpl.png
   caption: Looks more intimidating than it is.

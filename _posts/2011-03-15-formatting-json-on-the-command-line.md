@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2011-03-15 01:54:49+00:00
-layout: post
 slug: formatting-json-on-the-command-line
 title: Formatting JSON on the command line
 categories:
 - Tech
-tags:
-- json
-- yajl
 ---
 
 If you ever work with JSON on the command line, try out the json_reformat tool included in [yajl-tools](http://packages.ubuntu.com/lucid/yajl-tools) package (or install from [source](http://lloyd.github.com/yajl/)).

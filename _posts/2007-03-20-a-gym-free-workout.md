@@ -1,15 +1,7 @@
 ---
-author: garret
-comments: true
-date: 2007-03-20 06:09:44+00:00
-layout: post
-slug: a-gym-free-workout
 title: A gym-free workout
 categories:
 - Personal
-tags:
-- fitness
-- workout
 ---
 
 [Pete](http://petercurley.com/) showed us [a workout](http://www.simplefit.org/workouts.html) today that he said was inspired by the workout the guys did for the movie [300](http://www.imdb.com/title/tt0416449/). Although I didn't see that mentioned anywhere, the workout still looks good. I've never liked going to the gym (and haven't even used my Plaxo employee pass at Gold's), but I do love that post-workout feeling of relaxation and sore muscles. I've been biking 30 miles almost every weekend but I find myself getting a little restless  due to lack of physical activity when Wednesday rolls around. Hopefully this will help keep me relaxed as well as get me in shape.

@@ -1,9 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2006-11-19 06:41:37+00:00
-layout: post
-slug: time-for-an-upgrade
 title: Time for an upgrade
 categories:
 - Tech

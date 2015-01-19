@@ -1,8 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2014-01-30 17:17:30+00:00
-layout: post
 slug: five-years-of-hipchat
 title: Five years of HipChat
 categories:

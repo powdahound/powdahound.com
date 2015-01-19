@@ -1,15 +1,7 @@
 ---
-author: garret
-comments: true
-date: 2007-06-01 16:14:06+00:00
-layout: post
-slug: my-car-in-street-view
 title: My car in Street View
 categories:
 - Tech
-tags:
-- google
-- maps
 image:
 - url: google_streetview_car.png
   caption: 'Barely visible.'

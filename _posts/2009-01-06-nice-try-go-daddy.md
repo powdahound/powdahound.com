@@ -1,14 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2009-01-06 02:36:30+00:00
-layout: post
 slug: nice-try-go-daddy
 title: Nice try, Go Daddy
 categories:
 - Tech
-tags:
-- godaddy
 ---
 
 Today I received an email from Go Daddy with the title "Get www.Heaton.com for 25% off". Sweet! The domain is finally available!

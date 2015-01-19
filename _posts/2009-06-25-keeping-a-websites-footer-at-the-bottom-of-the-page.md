@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2009-06-25 07:07:50+00:00
-layout: post
 slug: keeping-a-websites-footer-at-the-bottom-of-the-page
-title: Keeping a website’s footer at the bottom of the page
+title: Keeping a website's footer at the bottom of the page
 categories:
 - Tech
-tags:
-- css
-- html
 ---
 
 I was trying to do this and found these two links very helpful:

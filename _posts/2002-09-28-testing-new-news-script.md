@@ -1,8 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2002-09-28 00:00:00-05:00
-layout: post
 title: Testing new news script!
 categories:
 - Tech

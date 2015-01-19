@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-01-16 07:04:08+00:00
-layout: post
 slug: backups-with-jungledisk
 title: Backups with JungleDisk
 categories:
 - Tech
-tags:
-- backup
-- jungledisk
 ---
 
 For the past 6 months I've been using [JungleDisk](http://www.jungledisk.com/) to back up most of my important files on [Amazon S3](http://www.amazon.com/gp/browse.html?node=16427261). It has a great auto-backup feature which keeps me from worrying about data loss. Like many people, I never thought about data loss until after I lost an entire drive (which I'm still keeping in case I become rich enough to blow $2k to have it restored).

@@ -19,3 +19,17 @@ author:
   url:            https://twitter.com/powdahound
 
 paginate:         3
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "garret"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true

@@ -1,16 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2009-06-30 07:39:00+00:00
-layout: post
 slug: focus-first-empty-input-element-using-jquery
 title: Focus first empty input element using jQuery
 categories:
 - Tech
-tags:
-- html
-- javascript
-- jquery
 ---
 
 It's often helpful to auto-focus form elements for users of your site so they don't have to manually select them with the mouse. I'd been using the following code on a few sites:

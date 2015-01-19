@@ -1,18 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2010-07-23 14:19:52+00:00
-layout: post
 slug: email-alerts-for-php-errors-via-sec
 title: Email alerts for PHP errors via SEC
 categories:
 - Tech
-tags:
-- apache
-- hipchat
-- monitoring
-- php
-- sec
 ---
 
 Production systems should always have PHP's [display_errors](http://www.php.net/manual/en/errorfunc.configuration.php#ini.display-errors) disabled and [log_errors](http://www.php.net/manual/en/errorfunc.configuration.php#ini.log-errors) enabled so errors are logged instead of displayed to users. Of course, you'll want a to be notified when errors happen and that's where a nifty tool called [SEC](http://simple-evcorr.sourceforge.net/) (Simple Event Correlator) comes in. It's not very sexy, but its incredibly powerful and can be used for all sorts of log watching tasks.

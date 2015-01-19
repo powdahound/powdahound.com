@@ -1,8 +1,4 @@
 ---
-author: garret
-comments: true
-date: 2014-05-24 22:14:48+00:00
-layout: post
 slug: my-switch-from-ios-to-android
 title: My switch from iOS to Android
 categories:

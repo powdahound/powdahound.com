@@ -1,16 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-05-10 18:44:04+00:00
-layout: post
 slug: textmate-tip-validate-your-php-syntax-when-saving
 title: 'TextMate tip: Validate PHP syntax when saving'
 categories:
 - Tech
-tags:
-- mac
-- php
-- textmate
 ---
 
 The [JavaScript Tools](http://andrewdupont.net/2006/10/01/javascript-tools-textmate-bundle/) bundle for [TextMate](http://www.textmate.com/) automatically runs [JavaScript Lint](http://www.javascriptlint.com/) on your files when saving and shows a little tooltip if there are any errors (like the missing semicolon below).

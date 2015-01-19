@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-06-08 16:30:50+00:00
-layout: post
 slug: new-jungledisk-beta-is-worth-the-upgrade
 title: New JungleDisk beta is worth the upgrade
 categories:
 - Tech
-tags:
-- backup
-- jungledisk
 ---
 
 The new [JungleDisk beta](http://www.jungledisk.com/betadownload.shtml) is a big improvement over their current version. The backup features have been greatly improved and now that I've [fixed](http://twitter.com/powdahound/statuses/829417546) my issue with Explorer locking up I can use it like almost like normal drive.

@@ -1,15 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2009-05-03 16:55:42+00:00
-layout: post
 slug: execute-current-file-in-vim
 title: Execute current file in Vim
 categories:
 - Tech
-tags:
-- scripts
-- vim
 ---
 
 Here's a helpful function you can drop in to your .vimrc that binds F5 to execute the current file if it has a [shebang](http://en.wikipedia.org/wiki/Shebang_(Unix)).

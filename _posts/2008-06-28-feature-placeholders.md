@@ -1,16 +1,8 @@
 ---
-author: garret
-comments: true
-date: 2008-06-28 01:34:18+00:00
-layout: post
 slug: feature-placeholders
 title: Feature placeholders
 categories:
 - Tech
-tags:
-- mac
-- software
-- things
 ---
 
 [Things](http://www.culturedcode.com/things/), a task management app that's still in development, does a great job letting users know about its unimplemented features. If you try to drag a task from a project into the 'Scheduled' area, for example, you'll get this popup:
