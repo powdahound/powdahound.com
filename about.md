@@ -3,28 +3,28 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<img src="/assets/garret.jpg" class="right">
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi, I'm Garret, a programmer and startup founder who loves to ski. This site has been my online home since 2002 when I first started learning about web development. I remember it being pretty ugly back then.
 
-There are currently two themes built on Poole:
+My interest in programming began in 1999 after being introduced to the PC game  [Starsiege: Tribes](/2007/07/starsiege-tribes-a-truly-unique-fps), and I spent many after-school hours [modifying the game](https://github.com/powdahound/tribes) and making websites for the clans I played with. They were pretty primitive and ugly too, but I had fallen in love with programming.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<img src="/assets/hipcal_logo.jpg" class="left">
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Years later while in college at [RPI](http://rpi.edu) I created an online calendar service (Google Calendar didn't exist yet!) which became [HipCal](/2007/07/hipcal-history) thanks to the help of four of my fraternity brothers. It was the summer of 2005; the internet buzzed with talk of [Ajax](http://en.wikipedia.org/wiki/Ajax_%28programming%29) and the first [Y Combinator](http://en.wikipedia.org/wiki/Y_Combinator_(company)) class was getting started. We knew nothing of VCs, Silicon Valley, or SXSW - though we did win the [2006 Student category](http://www.austinchronicle.com/screens/2006-03-17/348081/)!
 
-## Setup
+HipCal caught the attention of [Plaxo](http://plaxo.com) who [acqui-hired](http://techcrunch.com/2006/05/01/plaxo-acquires-calendar-startup-hipcal/) our team and moved us out to California. While at Plaxo I [honed my Javascript skills](/2007/06/plaxo-30-wap-and-pulse) and helped build [Plaxo Pulse](http://en.wikipedia.org/wiki/Plaxo#Plaxo_Pulse), one of the first web activity aggregator services. After a few years we were [acquired by Comcast](http://techcrunch.com/2008/05/14/confirmed-comcast-bought-plaxo-deal-closed-today/) and everyone got free cable service (seriously).
 
-Some fun facts about the setup of this project include:
+<img src="/assets/hipchat_logo.png" class="right" style="width: 150px;">
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+In 2009 I gave up the free cable service and left Plaxo/Comcast with two good friends (and HipCal guys) to start [HipChat](https://www.hipchat.com), an instant messaging tool built for businesses. Name sound familiar? :) My main focus ended up being on HipChat's backend and operations, though founders really do wear a lot of hats. We were small and bootstrapped but the service grew nicely as we learned almost everything needed to build it as we went. In 2012 we were acquired by [Atlassian](https://blog.hipchat.com/2012/03/07/weve-been-acquired-by-atlassian/) where the product has thrived and been given an incredibly bright future. It is now far bigger than I ever imagined it being, but I missed that small startup feeling and so decided to leave Atlassian in late 2014.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+<p style="font-family: monospace;">TODO: Start something new</p>
 
-Thanks for reading!
+## Around the web
+
+* [Flickr](http://flickr.com/powdahound)
+* [GitHub](https://github.com/powdahound)
+* [Linkedin](http://www.linkedin.com/in/garret)
+* [Strava](http://app.strava.com/athletes/156550)
+* [Twitter](http://twitter.com/powdahound)
