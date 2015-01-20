@@ -17,7 +17,7 @@ HipCal caught the attention of [Plaxo](http://plaxo.com) who [acqui-hired](http:
 
 <img src="/assets/hipchat_logo.png" class="right" style="width: 150px;">
 
-In 2009 I gave up the free cable service and left Plaxo/Comcast with two good friends (and HipCal guys) to start [HipChat](https://www.hipchat.com), an instant messaging tool built for businesses. Name sound familiar? :) My main focus ended up being on HipChat's backend and operations, though founders really do wear a lot of hats. We were small and bootstrapped but the service grew nicely as we learned almost everything needed to build it as we went. In 2012 we were acquired by [Atlassian](https://blog.hipchat.com/2012/03/07/weve-been-acquired-by-atlassian/) where the product has thrived and been given an incredibly bright future. It is now far bigger than I ever imagined it being, but I missed that small startup feeling and so decided to leave Atlassian in late 2014.
+In 2009 I gave up the free cable service and left Plaxo/Comcast with two good friends (and HipCal guys) to start [HipChat](https://www.hipchat.com), an instant messaging tool built for businesses. Name sound familiar? :) My main focus ended up being on HipChat's backend and operations, though as founders we all wore many hats. We started small and learned almost everything needed to build it as we went. The service grew steadily and in 2012 we were acquired by [Atlassian](https://blog.hipchat.com/2012/03/07/weve-been-acquired-by-atlassian/) where the product has thrived and been given an incredibly bright future. It is now far bigger than I ever imagined it being, but I missed that small startup feeling and so decided to leave Atlassian in late 2014.
 
 <p style="font-family: monospace;">TODO: Start something new</p>
 
