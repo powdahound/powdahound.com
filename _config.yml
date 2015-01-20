@@ -25,6 +25,7 @@ defaults:
     scope:
       path: ""
     values:
+      layout: "page"
       author: "garret"
   -
     scope:
