@@ -12,7 +12,10 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <div class="post-metadata">
+      <span class="post-date">{{ post.date | date_to_long_string }}</span> &mdash;
+      <a class="post-comments" href="{{ post.url }}#disqus_thread">0 comments</a>
+    </div>
 
     {{ post.content }}
   </div>
@@ -35,3 +38,14 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+<!-- Disqus comment counts -->
+<script type="text/javascript">
+var disqus_shortname = 'powdahound';
+(function () {
+  var s = document.createElement('script'); s.async = true;
+  s.type = 'text/javascript';
+  s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>

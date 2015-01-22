@@ -67,3 +67,18 @@ img.left {
   float: left;
   margin: 0 1rem 1rem 0;
 }
+
+/* Post metadata area below title */
+.post-metadata {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
+  .post-metadata a {
+    color: #9a9a9a !important;
+  }
+  .post-metadata .post-date {
+    display: inline;
+    margin: 0;
+  }
