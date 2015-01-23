@@ -25,7 +25,9 @@ nav.social a {
 nav.social a:hover {
   opacity: 1;
   text-decoration: none;
-
+}
+nav.social a:last-child {
+  padding-right: 0;
 }
 
 .lead {
