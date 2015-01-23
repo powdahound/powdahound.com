@@ -11,3 +11,5 @@ gzip: true
 redirects:
    safeway-specials: https://github.com/powdahound/safewayspecials
    files: http://files.powdahound.com
+   feed: atom.xml
+   blog/feed: atom.xml
