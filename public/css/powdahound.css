@@ -1,3 +1,4 @@
+/* Theme overrides */
 @media (min-width: 48em) {
   .sidebar {
     width: 16rem;
@@ -15,12 +16,20 @@
   top: 0.2rem;
 }
 
-.lead {
-  font-size: 1rem;
+nav.social a {
+  padding-right: 0.4rem;
+  font-family: 'socicon';
+  font-size: 0.6rem;
+  opacity: 0.5;
+}
+nav.social a:hover {
+  opacity: 1;
+  text-decoration: none;
+
 }
 
-.copyright {
-  font-size: 0.5rem;
+.lead {
+  font-size: 1rem;
 }
 
 /* Color theme */
@@ -82,3 +91,29 @@ img.left {
     display: inline;
     margin: 0;
   }
+
+/* Footer with copyright and whatnot */
+footer {
+  text-align: center;
+  font-size: 0.6rem;
+}
+  footer, footer a {
+    color: #ccc !important;
+  }
+  footer a {
+    text-decoration: underline;
+  }
+
+/* Social icons font from socicon.com */
+@font-face {
+  font-family: 'socicon';
+  src: url('font/socicon-webfont.eot');
+  src: url('font/socicon-webfont.eot?#iefix') format('embedded-opentype'),
+  url('font/socicon-webfont.woff') format('woff'),
+  url('font/socicon-webfont.woff2') format('woff2'),
+  url('font/socicon-webfont.ttf') format('truetype'),
+  url('font/socicon-webfont.svg#sociconregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  text-transform: initial;
+}
