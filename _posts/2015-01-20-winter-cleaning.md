@@ -6,7 +6,7 @@ categories:
 
 Since 2011 this site has been powered by WordPress running on m1.medium Amazon EC2 instance. It became neglected once [HipChat](https://www.hipchat.com) took off and the version of Ubuntu it was running, Natty Narwhal (11.04), stopped being supported on October 2012... Oops! Instead of trying to upgrade the host I figured I’d take the opportunity to simplify things and try out some new tools.
 
-<img src="{{ site.image_url }}/jekyll-logo-2x.png" class="right" style="width: 250px">
+<img src="{{ site.image_url }}jekyll-logo-2x.png" class="right" style="width: 250px">
 
 
 ### From WordPress to Jekyll
