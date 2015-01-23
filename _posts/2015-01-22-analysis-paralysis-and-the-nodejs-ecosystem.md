@@ -13,7 +13,7 @@ This was done by a PHP script that scraped Squaw's [snowfall tracker](http://squ
 
 ### Node noob
 
-<img src="/assets/Node.js_logo.svg.png" class="right" style="width: 250px">
+<img src="{{ site.image_url }}/Node.js_logo.svg.png" class="right" style="width: 250px">
 
 I’d never built anything in Node before. In fact, the last time I did [serious JavaScript work](/2007/06/plaxo-30-wap-and-pulse/) was in the days when we still had to consider IE6 (ugh). But I figured it wouldn’t be too hard to get a basic project set up, especially since I didn't need the power of a full framework. I was quickly slowed by the ~120,000 [npm](http://npmjs.org) packages, multiple async styles (classic callbacks, fibers, ES6 generators), and an overwhelming feeling of choice. These are signs of a rich ecosystem and progress, but I was overcome with [analysis paralysis](http://en.wikipedia.org/wiki/Analysis_paralysis).
 
@@ -39,7 +39,7 @@ After a reading a few tutorials and opinions I decided a few things:
 
 ### It works!
 
-<img src="/assets/squaw_thumbs_up.jpeg" class="right" style="width: 200px">
+<img src="{{ site.image_url }}/squaw_thumbs_up.jpeg" class="right" style="width: 200px">
 
 And here's the code: [https://github.com/powdahound/squawsnow](https://github.com/powdahound/squawsnow)
 
