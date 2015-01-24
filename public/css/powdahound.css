@@ -119,3 +119,15 @@ footer {
   font-style: normal;
   text-transform: initial;
 }
+
+a.socicon {
+  text-decoration: none;
+  font-family: "socicon";
+}
+
+a.instagram:before {
+  content: "x";
+}
+a.youtube:before {
+  content: "r";
+}
