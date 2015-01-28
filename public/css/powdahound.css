@@ -1,40 +1,74 @@
-/* Theme overrides */
-@media (min-width: 48em) {
-  .sidebar {
-    width: 16rem;
-  }
+/*****************************************************************************/
+/* Theme overrides                                                           */
+/*****************************************************************************/
+.theme-powdahound .sidebar {
+  position: relative;
+  top: auto;
+  left: auto;
+  bottom: auto;
+  width: 100%;
+  padding: 0;
 }
 
-.sidebar-about h1 {
+.theme-powdahound .sidebar .container {
+  max-width: 100%;
+  padding: 0.25rem;
+  margin: 0;
+}
+
+.theme-powdahound .sidebar .lead {
+  display: none;
+}
+
+.theme-powdahound .sidebar-about h1 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 1.75rem;
 }
 
-.sidebar-about h1 span {
+.theme-powdahound .sidebar-about h1 span {
   display: inline-block;
   position: relative;
   top: 0.2rem;
 }
 
-nav.social a {
+/* Header nav */
+.theme-powdahound nav.sidebar-nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  text-align: right;
+}
+.theme-powdahound .sidebar-nav-item {
+  display: inline-block;
+  float: right;
+  margin-right: 0.75rem;
+}
+
+/* Social links */
+.theme-powdahound nav.social {
+  display: none;
+}
+.theme-powdahound nav.social a {
   padding-right: 0.4rem;
   font-family: 'socicon';
   font-size: 0.6rem;
   opacity: 0.5;
 }
-nav.social a:hover {
+.theme-powdahound nav.social a:hover {
   opacity: 1;
   text-decoration: none;
 }
-nav.social a:last-child {
+.theme-powdahound nav.social a:last-child {
   padding-right: 0;
 }
 
-.lead {
-  font-size: 1rem;
+.theme-powdahound .content {
+  max-width: 45rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* Color theme */
 .theme-powdahound .sidebar {
   background-color: #336699;
 }
@@ -42,6 +76,10 @@ nav.social a:last-child {
 .theme-powdahound .related-posts li a:hover {
   color: #336699;
 }
+
+/*****************************************************************************/
+/* Content stuff                                                             */
+/*****************************************************************************/
 
 /* Captioned images */
 figure {
@@ -94,6 +132,10 @@ img.left {
     margin: 0;
   }
 
+/*****************************************************************************/
+/* Footer                                                                    */
+/*****************************************************************************/
+
 /* Footer with copyright and whatnot */
 footer {
   text-align: center;
@@ -106,7 +148,9 @@ footer {
     text-decoration: underline;
   }
 
-/* Social icons font from socicon.com */
+/*****************************************************************************/
+/* Social icons font from socicon.com                                        */
+/*****************************************************************************/
 @font-face {
   font-family: 'socicon';
   src: url('font/socicon-webfont.eot');
