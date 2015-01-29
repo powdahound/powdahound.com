@@ -1,4 +1,26 @@
 /*****************************************************************************/
+/* Global overrides                                                           */
+/*****************************************************************************/
+html {
+  font-size: 12px;
+}
+@media (min-width: 40em) {
+  html {
+    font-size: 14px;
+  }
+}
+@media (min-width: 50em) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (min-width: 60em) {
+  html {
+    font-size: 18px;
+  }
+}
+
+/*****************************************************************************/
 /* Theme overrides                                                           */
 /*****************************************************************************/
 .theme-powdahound .sidebar {
@@ -45,31 +67,15 @@
   float: right;
   margin-right: 0.75rem;
   line-height: 1;
-  font-size: .75rem;
-}
-
-/* Social links */
-.theme-powdahound nav.social {
-  display: none;
-}
-.theme-powdahound nav.social a {
-  padding-right: 0.4rem;
-  font-family: 'socicon';
-  font-size: 0.6rem;
-  opacity: 0.5;
-}
-.theme-powdahound nav.social a:hover {
-  opacity: 1;
-  text-decoration: none;
-}
-.theme-powdahound nav.social a:last-child {
-  padding-right: 0;
+  font-size: .9rem;
 }
 
 .theme-powdahound .content {
   max-width: 45rem;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 .theme-powdahound .sidebar {
@@ -83,6 +89,21 @@
 /*****************************************************************************/
 /* Content stuff                                                             */
 /*****************************************************************************/
+
+/* Social links */
+nav.social a {
+  padding-right: 0.5rem;
+  font-family: 'socicon';
+  font-size: 1rem;
+  opacity: 0.5;
+}
+nav.social a:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+nav.social a:last-child {
+  padding-right: 0;
+}
 
 /* Captioned images */
 figure {
