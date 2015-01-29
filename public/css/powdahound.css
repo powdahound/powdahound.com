@@ -8,6 +8,7 @@
   bottom: auto;
   width: 100%;
   padding: 0;
+  text-align: left;
 }
 
 .theme-powdahound .sidebar .container {
@@ -23,6 +24,7 @@
 .theme-powdahound .sidebar-about h1 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 1.75rem;
+  margin: 0.4rem 0.8rem;
 }
 
 .theme-powdahound .sidebar-about h1 span {
@@ -34,15 +36,16 @@
 /* Header nav */
 .theme-powdahound nav.sidebar-nav {
   position: absolute;
-  top: 0;
-  right: 0;
-  width: 100%;
+  top: 1.35rem;
+  right: 0.4rem;
   text-align: right;
 }
 .theme-powdahound .sidebar-nav-item {
   display: inline-block;
   float: right;
   margin-right: 0.75rem;
+  line-height: 1;
+  font-size: .75rem;
 }
 
 /* Social links */
