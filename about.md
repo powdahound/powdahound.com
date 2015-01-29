@@ -2,6 +2,16 @@
 title: About
 ---
 
+<nav class="social">
+  <a href="https://twitter.com/powdahound">a</a>
+  <a href="https://github.com/powdahound">Q</a>
+  <a href="https://www.linkedin.com/in/garret">j</a>
+  <a href="https://facebook.com/heaton">b</a>
+  <a href="http://instagram.com/powdahound">x</a>
+  <a href="mailto:powdahound@gmail.com">@</a>
+  <a href="http://feeds.feedburner.com/powdahound">,</a>
+</nav>
+
 <img src="{{ site.image_url }}garret.jpg" class="right">
 
 Hi! I'm Garret, a programmer and startup guy who loves to ski. This site has been my online home since 2002 when I first started learning about web development. I remember it being pretty ugly back then.
