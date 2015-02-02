@@ -9,6 +9,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. December 31 - Niseko, Japan - Woah... 40cm fresh.
 1. January 1 - Niseko, Japan - 20cm more. Made it over to Niseko and Hirafu resorts. Some great terrain over there.
 1. January 2 - Niseko, Japan - 50cm more. This place is insane. Wish we didn't have to leave. <a href="https://www.youtube.com/watch?v=5MRngM4gJeY" class="socicon youtube"></a>
+1. February 2 - Alta/Snowbird - Few inches of fresh snow made for a fun day, though the visibility was terrible. ([Strava](https://app.strava.com/activities/249660994/overview))
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
