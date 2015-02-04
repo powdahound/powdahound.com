@@ -11,6 +11,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. January 2 - Niseko, Japan - 50cm more. This place is insane. Wish we didn't have to leave. <a href="https://www.youtube.com/watch?v=5MRngM4gJeY" class="socicon youtube"></a>
 1. February 2 - Alta/Snowbird - Few inches of fresh snow made for a fun day, though the visibility was terrible. ([Strava](https://app.strava.com/activities/249660994))
 1. February 3 - Alta/Snowbird - Only a dusting of new snow, but nice and clear in the morning. Everyone's waiting for more snow. ([Strava](https://app.strava.com/activities/250002945)) <a href="http://instagram.com/p/ypwY7_kA4Q/" class="socicon instagram"></a>
+1. February 4 - Alta/Snowbird - Few inches of new snow but very fun. Incredibly warm mid-day. Had a good crash (see video). <a href="https://www.youtube.com/watch?v=cMX9KEQtCFY" class="socicon youtube"></a>
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
