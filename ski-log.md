@@ -13,6 +13,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. February 3 - Alta/Snowbird - Only a dusting of new snow, but nice and clear in the morning. Everyone's waiting for more snow. ([Strava](https://app.strava.com/activities/250002945)) <a href="http://instagram.com/p/ypwY7_kA4Q/" class="socicon instagram"></a>
 1. February 4 - Alta/Snowbird - Few inches of new snow but very fun. Incredibly warm mid-day. Had a good crash (see video). <a href="https://www.youtube.com/watch?v=cMX9KEQtCFY" class="socicon youtube"></a>
 1. February 5 - Snowbird - Lots of nice windblown snow. ([Strava](https://app.strava.com/activities/250914268))
+1. February 6 - Snowbird - Super windy. Most lifts closed down. Hit 70mph on the powder skis though... ([Strava](https://app.strava.com/activities/251244084))
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
