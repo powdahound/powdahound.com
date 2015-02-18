@@ -16,6 +16,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. February 6 - Snowbird - Super windy. Most lifts closed down. Hit 70mph on the powder skis though... ([Strava](https://app.strava.com/activities/251244084))
 1. February 7 - Alta/Snowbird - Heli canceled but weather ended up being great. ([Strava](https://app.strava.com/activities/251771921))
 1. February 8 - Snowbird - 1" overnight to soften things up. Rode 185cm Blizzard Cochise demos. Really powerful ski, but I didn't have the legs to push it hard. ([Strava](https://app.strava.com/activities/252367159))
+1. February 17 - Squaw - So little snow. Sad. ([Strava](https://app.strava.com/activities/256313588))
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
