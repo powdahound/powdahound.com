@@ -18,6 +18,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. February 8 - Snowbird - 1" overnight to soften things up. Rode 185cm Blizzard Cochise demos. Really powerful ski, but I didn't have the legs to push it hard. ([Strava](https://app.strava.com/activities/252367159))
 1. February 17 - Squaw - So little snow. Sad. ([Strava](https://app.strava.com/activities/256313588))
 1. February 18 - Alpine - Very warm. Messing around on boxes in the park. ([Strava](https://app.strava.com/activities/256795735))
+1. February 19 - Squaw - Waiting for cooler weekend weather. ([Strava](https://app.strava.com/activities/257186049))
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
