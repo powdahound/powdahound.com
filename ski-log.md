@@ -22,6 +22,9 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. February 20 - Squaw - Demoing a pair of Salomon X-Drive 8.8 FS. Really fun to be on a traditional camber ski that can really carve again. ([Strava](https://app.strava.com/activities/257603789))
 1. February 21 - Alpine - Ripping nice groomers. Banzai Tour event time trial going on. Wish I had entered! ([Strava](https://app.strava.com/activities/258025010))
 1. February 22 - Alpine - Crazy windy. Snow guns all blowing. No visibility. ([Strava](https://app.strava.com/activities/258567060))
+1. February 24 - Squaw - Awesome weather + beer + groomers. ([Strava](https://app.strava.com/activities/259404170))
+1. February 25 - Squaw - Many park laps. 360s are consistent and ugly (weight too far back). Getting there. ([Strava](https://app.strava.com/activities/259858830))
+
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
