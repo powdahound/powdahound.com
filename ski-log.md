@@ -24,7 +24,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. February 22 - Alpine - Crazy windy. Snow guns all blowing. No visibility. ([Strava](https://app.strava.com/activities/258567060))
 1. February 24 - Squaw - Awesome weather + beer + groomers. ([Strava](https://app.strava.com/activities/259404170))
 1. February 25 - Squaw - Many park laps. 360s are consistent and ugly (weight too far back). Getting there. ([Strava](https://app.strava.com/activities/259858830))
-
+1. February 26 - Squaw - Lots of park. 180s off big jumps feel solid. 360s need more work, but landed a few off the larger jump! ([Strava](https://app.strava.com/activities/260230869))
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
