@@ -25,6 +25,12 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. February 24 - Squaw - Awesome weather + beer + groomers. ([Strava](https://app.strava.com/activities/259404170))
 1. February 25 - Squaw - Many park laps. 360s are consistent and ugly (weight too far back). Getting there. ([Strava](https://app.strava.com/activities/259858830))
 1. February 26 - Squaw - Lots of park. 180s off big jumps feel solid. 360s need more work, but landed a few off the larger jump! ([Strava](https://app.strava.com/activities/260230869))
+1. March 12 - Whitewater - No visibility or snow. Sad.
+1. March 13 - Baldface Lodge - Morning groomers. Nice afternoon corn.
+1. March 14 - Baldface Lodge - Heavy snow and rain all day. Skiing on mashed potatoes. Totally soaked.
+1. March 15 - Baldface Lodge - Everything froze overnight. New snow falling but the base is so crusty. Next group will have fun...
+1. March 16 - Whitewater - Bluebird with ~12" snow overnight. Got two fun runs in before power went out. Hiked two runs and built a jump.
+1. March 17 - Whitewater - Still great snow. Hiked 3 laps in Upper Powder Keg. Mike cut his chin open jumping a big cliff up there.
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
