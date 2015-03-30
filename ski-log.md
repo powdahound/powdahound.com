@@ -31,6 +31,8 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. March 15 - Baldface Lodge - Everything froze overnight. New snow falling but the base is so crusty. Next group will have fun...
 1. March 16 - Whitewater - Bluebird with ~12" snow overnight. Got two fun runs in before power went out. Hiked two runs and built a jump.
 1. March 17 - Whitewater - Still great snow. Hiked 3 laps in Upper Powder Keg. Mike cut his chin open jumping a big cliff up there.
+1. March 28 - Park City - Mid-50s with great corn. ([Strava](https://app.strava.com/activities/275488534))
+1. March 29 - Park City - Great spring day. Did 26 runs and the legs feel strong. Time for AK! ([Strava](https://app.strava.com/activities/276155861))
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
