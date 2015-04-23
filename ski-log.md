@@ -35,6 +35,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. March 29 - Park City - Great spring day. Did 26 runs and the legs feel strong. Time for AK! ([Strava](https://app.strava.com/activities/276155861))
 1. April 4 - Haines, AK - 8 hours of bluebird, great snow, and amazing terrain. Some snow instability let us see a few big slide paths. <a href="http://instagram.com/p/1E2CddkA-q/" class="socicon instagram"></a>
 1. April 5 - Haines, AK - Late start but more great snow and light. Had a big crash on my last run but no injuries. Still lots to learn about navigating this sort of terrain. <a href="http://instagram.com/p/1HqrhqkA-L/" class="socicon instagram"></a>
+1. April 13 - Haines, AK - Extended my trip by two days in order to catch this day of clear weather. Worth it!
 
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
