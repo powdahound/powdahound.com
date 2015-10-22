@@ -8,7 +8,7 @@ image:
   caption: But can it run Crysis?
 ---
 
-One of my main reasons for [upgrading my computer](http://powdahound.com/2008/03/25/a-partial-hardware-upgrade/) recently was so I could play [Crysis](http://en.wikipedia.org/wiki/Crysis), and for the most part I've really enjoyed the game.
+One of my main reasons for [upgrading my computer](http://powdahound.com/2008/03/a-partial-hardware-upgrade/) recently was so I could play [Crysis](http://en.wikipedia.org/wiki/Crysis), and for the most part I've really enjoyed the game.
 
 {% figure_img 0 caption %}
 
