@@ -4,6 +4,9 @@ title: Ski Log
 
 Tracking ski trips. Why not? Skydivers get to do it.
 
+# 2015 - 2016
+1. November 21 - Kirkwood - A solo day trip to get the season started early. ([Strava](https://app.strava.com/activities/436908540)) <a href="http://instagram.com/p/-XYXNAEAwU/" class="socicon instagram"></a>
+
 # 2014 - 2015
 1. December 30 - Niseko, Japan - Beautiful start to the season. Old powder in the woods at Annupuri resort. Cut my lip open on a hard landing. <a href="http://instagram.com/p/xNrG1CkAzy/" class="socicon instagram"></a>
 1. December 31 - Niseko, Japan - Woah... 40cm fresh.
