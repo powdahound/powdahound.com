@@ -7,6 +7,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 # 2015 - 2016
 1. November 21 - Kirkwood - A solo day trip to get the season started early. ([Strava](https://app.strava.com/activities/436908540)) <a href="http://instagram.com/p/-XYXNAEAwU/" class="socicon instagram"></a>
 2. December 7 - Alpine Meadows - Super windy Roundhouse laps with Brinker. Big storms rolling in next weekend! ([Strava](https://app.strava.com/activities/446078129))
+3. December 12 - Squaw - A few quick laps after driving up. New Siberia lift is nice. ([Strava](https://app.strava.com/activities/449125531))
 
 # 2014 - 2015
 1. December 30 - Niseko, Japan - Beautiful start to the season. Old powder in the woods at Annupuri resort. Cut my lip open on a hard landing. <a href="http://instagram.com/p/xNrG1CkAzy/" class="socicon instagram"></a>
