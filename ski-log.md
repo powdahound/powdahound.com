@@ -45,6 +45,8 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. April 5 - Haines, AK - Late start but more great snow and light. Had a big crash on my last run but no injuries. Still lots to learn about navigating this sort of terrain. <a href="http://instagram.com/p/1HqrhqkA-L/" class="socicon instagram"></a>
 1. April 13 - Haines, AK - Extended my trip by two days in order to catch this day of clear weather. Worth it!
 
+Season recap video [here](https://www.youtube.com/watch?v=UZn6TyM22CM).
+
 # 2013 - 2014
 1. December 13 - Squaw - Yep, it's early in the season.
 1. December 14 - Squaw
@@ -66,6 +68,8 @@ Tracking ski trips. Why not? Skydivers get to do it.
 1. March 15 - Baldface
 1. March 16 - Whitewater
 1. March 17 - Whitewater
+
+Season recap video [here](https://www.youtube.com/watch?v=pu36mNOZAJU).
 
 # 2012 - 2013
 1. December 24 - Whistler
