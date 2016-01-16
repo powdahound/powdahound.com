@@ -12,6 +12,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 5. December 14 - Squaw - Crowded pow ([Strava](https://app.strava.com/activities/450307989))
 6. December 15 - Alpine + Squaw - Debut of Scott and KT-22! ([Strava](https://app.strava.com/activities/450886987))
 7. January 11 - Squaw - Day trip with Brinker. Grippy groomers and soft moguls. ([SNOCRU](http://snoc.ru/p/oFzab)) <a href="http://instagram.com/p/BAZvtEOEA2_/" class="socicon instagram"></a>
+8. January 15 - Sugar Bowl - Bluebird pow day trip on the ski bus. Great first day on the new Blizzard Spurs. ([SNOCRU](http://snoc.ru/p/zg2HC))
 
 # 2014 - 2015
 1. December 30 - Niseko, Japan - Beautiful start to the season. Old powder in the woods at Annupuri resort. Cut my lip open on a hard landing. <a href="http://instagram.com/p/xNrG1CkAzy/" class="socicon instagram"></a>
