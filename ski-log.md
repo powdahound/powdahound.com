@@ -15,6 +15,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 8. January 15 - Sugar Bowl - Bluebird pow day trip on the ski bus. Great first day on the new Blizzard Spurs. ([SNOCRU](http://snoc.ru/p/zg2HC))
 9. January 18 - Alpine Meadows - Afternoon runs after driving up. ([SNOCRU](http://snoc.ru/p/HFNxZ))
 10. January 20 - Squaw - Weird wind crust and light powder. Crashed while landing off a drop in Granite Chief and bent my pole over my ribs. Very sore!
+11. January 21 - Alpine - Bruised rib sucks but can ski. Played with some new GoPro angles. <a href="http://instagram.com/p/BA0fP3ckA_F/" class="socicon instagram"></a>
 
 # 2014 - 2015
 1. December 30 - Niseko, Japan - Beautiful start to the season. Old powder in the woods at Annupuri resort. Cut my lip open on a hard landing. <a href="http://instagram.com/p/xNrG1CkAzy/" class="socicon instagram"></a>
