@@ -16,6 +16,11 @@ Tracking ski trips. Why not? Skydivers get to do it.
 9. January 18 - Alpine Meadows - Afternoon runs after driving up. ([SNOCRU](http://snoc.ru/p/HFNxZ))
 10. January 20 - Squaw - Weird wind crust and light powder. Crashed while landing off a drop in Granite Chief and bent my pole over my ribs. Very sore!
 11. January 21 - Alpine - Bruised rib sucks but can ski. Played with some new GoPro angles. <a href="http://instagram.com/p/BA0fP3ckA_F/" class="socicon instagram"></a>
+12. February 17 - Snowbird - Rib and back feeling much better after last month's crash.
+13. February 18 - Alta/Snowbird - 100mph winds at Alpine in the morning and then they lost power. Untracked pow on Gadzoom in the afternoon.
+14. February 19 - Snowbird - Fun little powder day.
+15. February 20 - Snowbird
+16. February 21 - Snowbird - Lots of speed laps on Great Scott. Got to ride with Angel Collinson and a group of ~12 year old freeride team kids in the afternoon, ending with my first run down Main Chute into Alta.
 
 # 2014 - 2015
 1. December 30 - Niseko, Japan - Beautiful start to the season. Old powder in the woods at Annupuri resort. Cut my lip open on a hard landing. <a href="http://instagram.com/p/xNrG1CkAzy/" class="socicon instagram"></a>
