@@ -62,13 +62,18 @@ module Jekyll
       @alt = Liquid::Template.parse("{{ page.image[#{@index}].alt }}").render(context)
       @caption = Liquid::Template.parse("{{ page.image[#{@index}].caption | markdownify }}").render(context) if @caption
 
+      full_image_src = "#{@base_url}#{@src}"
+      if @src.match(/^https?:\/\//)
+        full_image_src = @src
+      end
+
       if @class
         figure = "<figure class=\"#{@class}\">"
       else
         figure = "<figure>"
       end
 
-      figure += "<img src=\"#{@base_url}#{@src}\" alt=\"#{@alt}\"/>"
+      figure += "<img src=\"#{full_image_src}\" alt=\"#{@alt}\"/>"
 
       if @caption
         figure += "<figcaption>#{@caption}</figcaption>"
