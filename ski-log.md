@@ -22,6 +22,10 @@ Tracking ski trips. Why not? Skydivers get to do it.
 15. February 20 - Snowbird
 16. February 21 - Snowbird - Lots of speed laps on Great Scott. Got to ride with Angel Collinson and a group of ~12 year old freeride team kids in the afternoon, ending with my first run down Main Chute into Alta.
 17. March 8 - Squaw - Successful day trip for bluebird powder. <a href="http://instagram.com/p/BCtph5aEA_D/" class="socicon instagram"></a>
+18. March 18 - Squaw
+19. March 19 - Squaw - Pain McSchlonkey 2016!
+20. March 20 - Sugar Bowl - Half day before driving home in the rain
+21. March 27 - Haines, AK - Cat trip to Old Faithful for wet pow laps. Waiting on weather.
 
 # 2014 - 2015
 1. December 30 - Niseko, Japan - Beautiful start to the season. Old powder in the woods at Annupuri resort. Cut my lip open on a hard landing. <a href="http://instagram.com/p/xNrG1CkAzy/" class="socicon instagram"></a>
