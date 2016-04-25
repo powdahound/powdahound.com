@@ -29,6 +29,7 @@ Tracking ski trips. Why not? Skydivers get to do it.
 22. March 30 - Haines, AK - Got out for ~4 heli runs from the airport. Sadly it has been too hot for any soft snow to survive.
 23. March 31 - Haines, AK - 9 runs from the airport. Lots of sunny corn and some chalky stuff.
 24. April 2 - Haines, AK - 9-ish runs from the airport again. Bit of new snow helped soften things up, but still really warm out there. Hopefully this next storm cycle can reset things for the next group!
+25. April 23 - Squaw - 20" storm made a day trip worth the effort. Bluebird and great conditions!
 
 # 2014 - 2015
 1. December 30 - Niseko, Japan - Beautiful start to the season. Old powder in the woods at Annupuri resort. Cut my lip open on a hard landing. <a href="http://instagram.com/p/xNrG1CkAzy/" class="socicon instagram"></a>
