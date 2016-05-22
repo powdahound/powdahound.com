@@ -14,7 +14,9 @@ title: Home
 
     <div class="post-metadata">
       <span class="post-date">{{ post.date | date_to_long_string }}</span> &mdash;
+      {% if post.comments %}
       <a class="post-comments" href="{{ post.url }}#disqus_thread">0 comments</a>
+      {% endif %}
     </div>
 
     {{ post.content }}
