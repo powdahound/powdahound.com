@@ -4,6 +4,12 @@ title: Ski Log
 
 Tracking ski trips. Why not? Skydivers get to do it.
 
+# 2016 - 2017
+1. December 24 - Lech, Austria - Late start to the season. Not much snow here but a fun day carving around on some GS rental skis. ([Strava](https://www.strava.com/activities/810259946))
+2. December 25 - Lech, Austria - Rainy afternoon. Sad vibes in town. ([Strava](https://www.strava.com/activities/810922517))
+3. December 26 - Lech, Austria - Blizzard Cochise 185cm rentals at 8.5 din. Pre-released five times and badly bruised my ass on one of them. ([Strava](https://www.strava.com/activities/811777879))
+4. December 27 - Lech, Austria - Icy all over from rain last night. Sliding around everywhere. ([Strava](https://www.strava.com/activities/812676210))
+
 # 2015 - 2016
 1. November 21 - Kirkwood - A solo day trip to get the season started early. ([Strava](https://app.strava.com/activities/436908540)) <a href="http://instagram.com/p/-XYXNAEAwU/" class="socicon instagram"></a>
 2. December 7 - Alpine Meadows - Super windy Roundhouse laps with Brinker. Big storms rolling in next weekend! ([Strava](https://app.strava.com/activities/446078129))
