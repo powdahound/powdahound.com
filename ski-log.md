@@ -10,6 +10,9 @@ Tracking ski trips. Why not? Skydivers get to do it.
 3. December 26 - Lech, Austria - Blizzard Cochise 185cm rentals at 8.5 din. Pre-released five times and badly bruised my ass on one of them. ([Strava](https://www.strava.com/activities/811777879))
 4. December 27 - Lech, Austria - Icy all over from rain last night. Sliding around everywhere. ([Strava](https://www.strava.com/activities/812676210))
 5. January 6 - Sugar Bowl - Bluebird after a week of storms. Snow was surprisingly firm and wind buffed. Should've brought a groomer ski!
+6. January 14 - Snowbird/Alta - First pow day! Lots of [air time](https://gfycat.com/ExcitableGlamorousGalapagossealion) in Mineral Basin. Caught line drop on Road to Provo.
+7. January 15 - Snowbird/Alta - Main Chute, Devil's Castle, tired.
+8. January 16 - Snowbird/Alta - First time down Little Chute.
 
 # 2015 - 2016
 1. November 21 - Kirkwood - A solo day trip to get the season started early. ([Strava](https://app.strava.com/activities/436908540)) <a href="http://instagram.com/p/-XYXNAEAwU/" class="socicon instagram"></a>
