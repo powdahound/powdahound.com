@@ -13,6 +13,8 @@ Tracking ski trips. Why not? Skydivers get to do it.
 6. January 14 - Snowbird/Alta - First pow day! Lots of [air time](https://gfycat.com/ExcitableGlamorousGalapagossealion) in Mineral Basin. Caught line drop on Road to Provo.
 7. January 15 - Snowbird/Alta - Main Chute, Devil's Castle, tired.
 8. January 16 - Snowbird/Alta - First time down Little Chute.
+9. January 24 - Alpine - Started as a day trip to Squaw, but a patroller tragically died in the morning. :(
+10. January 25 - Squaw - Shirley Lake [pow](https://gfycat.com/ObedientShamefulAngwantibo). Granite is going to be great when it opens.
 
 # 2015 - 2016
 1. November 21 - Kirkwood - A solo day trip to get the season started early. ([Strava](https://app.strava.com/activities/436908540)) <a href="http://instagram.com/p/-XYXNAEAwU/" class="socicon instagram"></a>
@@ -131,11 +133,12 @@ Season recap video [here](https://www.youtube.com/watch?v=EI1sPLsFGq0).
 # 2010 - 2011
 
 1. November 21 - Northstar - Took the ski bus up. There's too much snow for Northstar's flat trails! :(
-2. November 24 - Northstar - Ski bus again, with Mark this time. Bluebird powder day!
-3. December 17 - Boreal - Stopped on the way up to Tahoe with Mark and skied 3:30-6:30. Very wet but had fun in the terrain park!
-4. December 18 - Homewood - Tried to go to Squaw, then Alpine, then ended up here. Super wet but no crowds. Real sierra cement!
-5. December 19 - Alpine Meadows - Got 4 awesome runs in before the lifts closed due to winds. Great terrain under the lift.
-6. Deember 25 - Loon - Family Christmas skiing. Snapped my pole...
-7. February 26 - Squaw - Totally insane snow and lines (hour+ on KT)
-8. February 27 - Squaw - Awesome day-after powder and perfect weather.
-9. April 3 - Kirkwood - Ski bus. Super warm.
+1. November 24 - Northstar - Ski bus again, with Mark this time. Bluebird powder day!
+1. December 17 - Boreal - Stopped on the way up to Tahoe with Mark and skied 3:30-6:30. Very wet but had fun in the terrain park!
+1. December 18 - Homewood - Tried to go to Squaw, then Alpine, then ended up here. Super wet but no crowds. Real sierra cement!
+1. December 19 - Alpine Meadows - Got 4 awesome runs in before the lifts closed due to winds. Great terrain under the lift.
+1. Deember 25 - Loon - Family Christmas skiing. Snapped my pole...
+1. January 21 - Squaw - [Pow with Pete](https://www.youtube.com/watch?v=O_HGu96OvHE).
+1. February 26 - Squaw - Totally insane snow and lines (hour+ on KT)
+1. February 27 - Squaw - Awesome day-after powder and perfect weather.
+1. April 3 - Kirkwood - Ski bus. Super warm.
