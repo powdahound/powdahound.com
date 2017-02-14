@@ -15,6 +15,11 @@ Tracking ski trips. Why not? Skydivers get to do it.
 8. January 16 - Snowbird/Alta - First time down Little Chute.
 9. January 24 - Alpine - Started as a day trip to Squaw, but a patroller tragically died in the morning. :(
 10. January 25 - Squaw - Shirley Lake [pow](https://gfycat.com/ObedientShamefulAngwantibo). Granite is going to be great when it opens.
+11. February 8 - Snowbird - Flew in and was on the hill by 11.
+12. February 9 - Snowbird - Hot hot hot
+13. February 10 - Snowbird - Storm rolled in after lunch. Wore the fishing gloves to stay dry and they worked very well.
+14. February 11 - Snowbird - Top to bottom untracked under the tram. Woo!
+15. February 12 - Snowbird - Cat trip in the morning, but it died after two very slow runs.
 
 # 2015 - 2016
 1. November 21 - Kirkwood - A solo day trip to get the season started early. ([Strava](https://app.strava.com/activities/436908540)) <a href="http://instagram.com/p/-XYXNAEAwU/" class="socicon instagram"></a>
