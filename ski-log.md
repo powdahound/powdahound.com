@@ -20,6 +20,8 @@ Tracking ski trips. Why not? Skydivers get to do it.
 13. February 10 - Snowbird - Storm rolled in after lunch. Wore the fishing gloves to stay dry and they worked very well.
 14. February 11 - Snowbird - Top to bottom untracked under the tram. Woo!
 15. February 12 - Snowbird - Cat trip in the morning, but it died after two very slow runs.
+16. March 10 - Snowbird - 50° groomers with Mike & Rachael.
+17. March 11 - Alta - More hot groomers + some drills.
 
 # 2015 - 2016
 1. November 21 - Kirkwood - A solo day trip to get the season started early. ([Strava](https://app.strava.com/activities/436908540)) <a href="http://instagram.com/p/-XYXNAEAwU/" class="socicon instagram"></a>
