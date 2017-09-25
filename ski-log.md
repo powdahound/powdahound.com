@@ -24,6 +24,9 @@ Tracking ski trips. Why not? Skydivers get to do it.
 17. March 11 - Alta - More hot groomers + some drills.
 
 # 2015 - 2016
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8wpGfozaj7U" frameborder="0" allowfullscreen></iframe>
+
 1. November 21 - Kirkwood - A solo day trip to get the season started early. ([Strava](https://app.strava.com/activities/436908540)) <a href="http://instagram.com/p/-XYXNAEAwU/" class="socicon instagram"></a>
 2. December 7 - Alpine Meadows - Super windy Roundhouse laps with Brinker. Big storms rolling in next weekend! ([Strava](https://app.strava.com/activities/446078129))
 3. December 12 - Squaw - A few quick laps after driving up. New Siberia lift is nice. ([Strava](https://app.strava.com/activities/449125531))
