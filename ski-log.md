@@ -2,7 +2,15 @@
 title: Ski Log
 ---
 
-Tracking ski trips. Why not? Skydivers get to do it.
+Tracking ski trips.
+
+# 2018 - 2019
+
+TBD
+
+# 2017 - 2018
+
+Healing injuries. Didn't make it out once.
 
 # 2016 - 2017
 
