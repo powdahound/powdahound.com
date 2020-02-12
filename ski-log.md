@@ -2,11 +2,18 @@
 title: Ski Log
 ---
 
-Tracking ski trips.
+Tracking ski days.
+
+# 2019 - 2020
+
+1. January 8 - Dartmouth Skiway - Season opener!
+2. January 29 - Dartmouth Skiway
+3. February 8 - Snowbird - First day outside after a historic [2 day interlodge](https://www.deseret.com/utah/2020/2/8/21129618/little-cottonwood-canyon-opens-after-historic-2-day-closure). Skied hard and threw my back out so missed the next day.
 
 # 2018 - 2019
 
-TBD
+1. January 28 - Dartmouth Skiway - First day in the new [Dodge](https://dodgeskiboots.com/) boots. Amazed by how light they are!
+2. March 19 - Dartmouth Skiway
 
 # 2017 - 2018
 
