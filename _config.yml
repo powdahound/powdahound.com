@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      pygments
+plugins: [jekyll-paginate]
 
 # Permalinks
 permalink:        /:year/:month/:title/
