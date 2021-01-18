@@ -1,0 +1,30 @@
+name: Main
+
+on:
+  push:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment: Prod
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1.62.0
+
+      - name: Install
+        run: bundle install
+
+      - name: Build
+        run: bundle exec jekyll build --config _config.yml,_config_prod.yml
+      
+      - name: Deploy
+        env:
+          S3_ID: ${{ secrets.S3_ID }}
+          S3_SECRET: ${{ secrets.S3_SECRET }}
+        run: bundle exec s3_website push
