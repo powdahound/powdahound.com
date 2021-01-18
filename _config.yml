@@ -10,7 +10,7 @@ permalink:        /:year/:month/:title/
 title:            powdahound
 tagline:          Dreaming of snow.
 description:      Nerd on skis.
-url:              http://powdahound.com
+url:              https://powdahound.com
 baseurl:          /
 image_url:        /assets/
 
