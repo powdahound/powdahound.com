@@ -16,9 +16,9 @@ jobs:
       
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1.62.0
-
-      - name: Install
-        run: bundle install
+        with:
+          ruby-version: 2.5
+          bundler-cache: true
 
       - name: Build
         run: bundle exec jekyll build --config _config.yml,_config_prod.yml
