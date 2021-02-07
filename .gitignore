@@ -9,6 +9,8 @@ vendor
 .jekyll-cache
 .jekyll-metadata
 
+.obsidian
+
 # Numerous always-ignore extensions
 *.diff
 *.err
