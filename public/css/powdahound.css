@@ -219,6 +219,7 @@ a.youtube:before {
 /*****************************************************************************/
 /* Snow for header                                                           */
 /*****************************************************************************/
+/*
 @-webkit-keyframes snow {
   0% {
     background-position: 0px 0px, 0px 0px, 0px 0px
@@ -259,3 +260,4 @@ a.youtube:before {
   -ms-animation: 'snow' 15s linear infinite;
   animation: 'snow' 15s linear infinite;
 }
+*/
