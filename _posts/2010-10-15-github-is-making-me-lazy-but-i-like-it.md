@@ -1,6 +1,5 @@
 ---
 title: GitHub is Making Me Lazy But I Like It
-comments: false
 ---
 
 

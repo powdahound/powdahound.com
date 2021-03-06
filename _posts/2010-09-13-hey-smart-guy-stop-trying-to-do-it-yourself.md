@@ -1,6 +1,5 @@
 ---
 title: Hey Smart Guy - Stop Trying To Do It Yourself
-comments: false
 ---
 
 
