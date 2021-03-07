@@ -23,7 +23,7 @@ jobs:
       - name: Set up Java
         uses: actions/setup-java@v1
         with:
-          java-version: 9
+          java-version: 8
 
       - name: Build
         run: bundle exec jekyll build --config _config.yml,_config_prod.yml
